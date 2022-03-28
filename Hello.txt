@@ -1,1 +1,2 @@
 hello is the example practise  text.
+hello iam adding new lines to the txt.
